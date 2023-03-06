@@ -1,6 +1,6 @@
 ## work day scheduler
 
-This is a fantastic work day scheduler that you can save your daily plan. Your information has been saved in the browser.
+This is a fantastic work day scheduler that you can save your daily plan. Your information will be saved in the localStorage.
 
 [deployed link](https://karbuuno.github.io/Work-Day-Scheduler/)
 [github link](https://github.com/Karbuuno/Work-Day-Scheduler/)
