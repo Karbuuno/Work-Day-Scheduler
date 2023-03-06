@@ -8,3 +8,4 @@ This is a fantastic work day scheduler that you can save your daily plan. Your i
 
 ![alt first image](/assets/images/image-1.png)
 ![alt second image](/assets/images/image-2.png)
+![alt second image](/assets/images/image-3.png)
